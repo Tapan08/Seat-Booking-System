@@ -9,10 +9,6 @@
 - [License](#license)
 
 
-## Introduction
-
-Here's an introduction for your Windows Forms application:
-
 ---
 
 ### Introduction
