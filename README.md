@@ -6,7 +6,7 @@
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [License] (#license)
+- [License](#license)
 
 
 ## Introduction
